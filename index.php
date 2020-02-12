@@ -83,90 +83,90 @@
 	
 	<!--GALLERY-->
 	
-	<section id="main-sec-2">
-	
-	<div class = "o3-container"> 
-	
-	<h1 class="txt-5">Photo Gallery</h1>
-	<h2 class="txt-6"> Romantic, Unforgettable and Affordable.  We strive to make your wedding day perfect in every way at an affordable price.</h2>
-	
-	<br><br>
-	
-	<div class="row">
-	<div class="column">
-    <img src="images/index/gallery/1.png" style="width:100%" onclick="openModal1();currentSlide(1)" class="hover-shadow cursor">
-	</div>
-	<div class="column">
-    <img src="images/index/gallery/2.jpg" style="width:100%" onclick="openModal1();currentSlide(2)" class="hover-shadow cursor">
-	</div>
-	<div class="column">
-	<img src="images/index/gallery/3.jpg" style="width:100%" onclick="openModal1();currentSlide(3)" class="hover-shadow cursor">
-	</div>
-	<div class="column">
-    <img src="images/index/gallery/4.jpg" style="width:100%" onclick="openModal1();currentSlide(4)" class="hover-shadow cursor">
-	</div>
-	</div>
-	
-	<div class="row">
-	<div class="column">
-    <img src="images/index/gallery/5.jpg" style="width:100%" onclick="openModal1();currentSlide(5)" class="hover-shadow cursor">
-	</div>
-	<div class="column">
-    <img src="images/index/gallery/6.jpg" style="width:100%" onclick="openModal1();currentSlide(6)" class="hover-shadow cursor">
-	</div>
-	<div class="column">
-	<img src="images/index/gallery/14.jpg" style="width:100%" onclick="openModal1();currentSlide(7)" class="hover-shadow cursor">
-	</div>
-	<div class="column">
-    <img src="images/index/gallery/8.jpg" style="width:100%" onclick="openModal1();currentSlide(8)" class="hover-shadow cursor">
-	</div>
-	</div>
-
-	<div id="myModal1" class="modal">
-	<span class="close cursor" onclick="closeModal()">&times;</span>
-	<div class="modal-content">
-
-    <div class="mySlides-1">
-    <img src="images/index/gallery/2.png" style="width:100%">
-    </div>
-
-    <div class="mySlides-1">
-    <img src="images/index/gallery/2.png" style="width:100%">
-    </div>
-
-    <div class="mySlides-1">
-    <img src="images/index/gallery/3.png" style="width:100%">
-    </div>
-    
-    <div class="mySlides-1">
-    <img src="images/index/gallery/4.png" style="width:100%">
-    </div>
-	
-	<div class="mySlides-1">
-    <img src="images/index/gallery/5.png" style="width:100%">
-    </div>
-
-    <div class="mySlides-1">
-    <img src="images/index/gallery/6.png" style="width:100%">
-    </div>
-
-    <div class="mySlides-1">
-    <img src="images/index/gallery/14.png" style="width:100%">
-    </div>
-    
-    <div class="mySlides-1">
-    <img src="images/index/gallery/8.png" style="width:100%">
-    </div>
-    
-    <a class="prev-2" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next-2" onclick="plusSlides(1)">&#10095;</a>
-
-	</div>
-	</div>
-		
-	</div>
-	
-	</section>
+<!--	<section id="main-sec-2">-->
+<!--	-->
+<!--	<div class = "o3-container"> -->
+<!--	-->
+<!--	<h1 class="txt-5">Photo Gallery</h1>-->
+<!--	<h2 class="txt-6"> </h2>-->
+<!--	-->
+<!--	<br><br>-->
+<!--	-->
+<!--	<div class="row">-->
+<!--	<div class="column">-->
+<!--    <img src="images/index/gallery/1.png" style="width:100%" onclick="openModal1();currentSlide(1)" class="hover-shadow cursor">-->
+<!--	</div>-->
+<!--	<div class="column">-->
+<!--    <img src="images/index/gallery/2.jpg" style="width:100%" onclick="openModal1();currentSlide(2)" class="hover-shadow cursor">-->
+<!--	</div>-->
+<!--	<div class="column">-->
+<!--	<img src="images/index/gallery/3.jpg" style="width:100%" onclick="openModal1();currentSlide(3)" class="hover-shadow cursor">-->
+<!--	</div>-->
+<!--	<div class="column">-->
+<!--    <img src="images/index/gallery/4.jpg" style="width:100%" onclick="openModal1();currentSlide(4)" class="hover-shadow cursor">-->
+<!--	</div>-->
+<!--	</div>-->
+<!--	-->
+<!--	<div class="row">-->
+<!--	<div class="column">-->
+<!--    <img src="images/index/gallery/5.jpg" style="width:100%" onclick="openModal1();currentSlide(5)" class="hover-shadow cursor">-->
+<!--	</div>-->
+<!--	<div class="column">-->
+<!--    <img src="images/index/gallery/6.jpg" style="width:100%" onclick="openModal1();currentSlide(6)" class="hover-shadow cursor">-->
+<!--	</div>-->
+<!--	<div class="column">-->
+<!--	<img src="images/index/gallery/14.jpg" style="width:100%" onclick="openModal1();currentSlide(7)" class="hover-shadow cursor">-->
+<!--	</div>-->
+<!--	<div class="column">-->
+<!--    <img src="images/index/gallery/8.jpg" style="width:100%" onclick="openModal1();currentSlide(8)" class="hover-shadow cursor">-->
+<!--	</div>-->
+<!--	</div>-->
+<!---->
+<!--	<div id="myModal1" class="modal">-->
+<!--	<span class="close cursor" onclick="closeModal()">&times;</span>-->
+<!--	<div class="modal-content">-->
+<!---->
+<!--    <div class="mySlides-1">-->
+<!--    <img src="images/index/gallery/2.png" style="width:100%">-->
+<!--    </div>-->
+<!---->
+<!--    <div class="mySlides-1">-->
+<!--    <img src="images/index/gallery/2.png" style="width:100%">-->
+<!--    </div>-->
+<!---->
+<!--    <div class="mySlides-1">-->
+<!--    <img src="images/index/gallery/3.png" style="width:100%">-->
+<!--    </div>-->
+<!--    -->
+<!--    <div class="mySlides-1">-->
+<!--    <img src="images/index/gallery/4.png" style="width:100%">-->
+<!--    </div>-->
+<!--	-->
+<!--	<div class="mySlides-1">-->
+<!--    <img src="images/index/gallery/5.png" style="width:100%">-->
+<!--    </div>-->
+<!---->
+<!--    <div class="mySlides-1">-->
+<!--    <img src="images/index/gallery/6.png" style="width:100%">-->
+<!--    </div>-->
+<!---->
+<!--    <div class="mySlides-1">-->
+<!--    <img src="images/index/gallery/14.png" style="width:100%">-->
+<!--    </div>-->
+<!--    -->
+<!--    <div class="mySlides-1">-->
+<!--    <img src="images/index/gallery/8.png" style="width:100%">-->
+<!--    </div>-->
+<!--    -->
+<!--    <a class="prev-2" onclick="plusSlides(-1)">&#10094;</a>-->
+<!--    <a class="next-2" onclick="plusSlides(1)">&#10095;</a>-->
+<!---->
+<!--	</div>-->
+<!--	</div>-->
+<!--		-->
+<!--	</div>-->
+<!--	-->
+<!--	</section>-->
 	
 	<!-- THE MODAL -->
 	

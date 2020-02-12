@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Wedding Planner | Login</title>
+	<title>CD Library | Login</title>
 	<link rel="stylesheet" type="text/css" href="stylesheets/login.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="stylesheets/cart-very-special.css">
@@ -31,7 +31,7 @@
 	
 	<form action="includes/login_inc.php" method="POST">
 	
-	<h2 style="font-size:30px; text-align:center; color:white;">Log into your account.</h2><br>
+	<h2 style="color: #564c79">Log into your account.</h2><br>
 	
     <input name="email" type="text" placeholder="Username" required>
 	<input name="psw" type="password" placeholder="Password" required>

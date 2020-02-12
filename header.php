@@ -18,8 +18,8 @@ session_start();
 
 <body> 
 
-	<header>	
-		<a class="logo-wed" href="#"><img alt="Cd Logo" src="images/main/logo7.png" style=".."></a>
+	<header style="height: 100px;">
+		<a class="logo-wed" href="index.php"><img alt="Cd Logo" src="images/main/logo_t.png" style="width: 80px;height: 80px;margin: -20px -20px"></a>
 		<nav class="t-nav">
 		<div class="top-nav">
 		<ul class="menu-bar">
@@ -50,7 +50,6 @@ session_start();
 			
 				echo '<form action="includes/login_inc.php" method="POST">
 					  <button class="aTest" type="submit" formaction="loginp.php">Login</button>
-					  <button class="aTest a" type="submit" formaction="signp.php">Sign Up</button>
 					  </form>';
 			}
 		?></a>
